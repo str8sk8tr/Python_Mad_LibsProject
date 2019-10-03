@@ -1,35 +1,60 @@
 # Python_Mad_LibsProject
-.
+
 Song by The Beatles - "The Ballad of John And Yoko".
 
-Used below words:
+# Task
+Make a Mad Libs program in python
 
+# Criteria
+Used lyrics from the song, "The Ballad of John And Yoko" and substituted some words for my own words 
 
-C:\Users\Admin\PycharmProjects\TheBeatlesMadLibsProject\venv\Scripts\python.exe "C:/Users/Admin/PycharmProjects/TheBeatlesMadLibsProject/The Ballad Of John & Yoko (MadLib).py"
-Enter departure city:Bejing capital airport
-Enter country1:Vietnam
-Enter country2:India
-Enter name of a uniform:Military fatigues
-Enter city1:Bora Bora
-Enter cove:Motu trevairoa
-Enter name of a celebrity:Lady Gaga
-Enter island:Ansesource D'Argent
-Enter country3:Seychelles
-Enter country4:Mauritius
-Enter city1:Mombasa
-Enter city2:Nairobi
-Enter noun:Loot
-Enter weather:Feezing
-Enter a thing:Peso's
-Enter country4:Boston
-Enter name of favorite cake:Boston cream pie
-Enter people:Hippies
-Enter city4:London
-Enter type of coins Krugerrand
-Enter group type:bloggers
-Enter pronoun:Rappers
-Enter media_type:Social Media
+. Enter departure city: Bejing capital airport
 
+. Enter country: Vietnam
+
+. Enter country: India
+
+. Enter name of a uniform: Military fatigues
+
+. Enter city: Bora Bora
+
+. Enter cove: Motu trevairoa
+
+. Enter name of a celebrity: lady Gaga
+
+. Enter island: Ansesource D'Argent
+
+. Enter country: Seychelles
+
+. Enter country: Mauritius
+
+. Enter city: Mombasa
+
+. Enter city: Nairobi
+
+. Enter noun: Loot
+
+. Enter weather: Feezing
+
+. Enter a thing: Peso's
+
+. Enter country: Boston
+
+. Enter name of favorite cake: Boston cream pie
+
+. Enter people: Hippies
+
+. Enter city: London
+
+. Enter type of coins: Krugerrand
+
+. Enter group type: bloggers
+
+. Enter pronoun: Rappers
+
+. Enter media_type: Social Media
+
+# Summary of program
 
 Standing in the dock at Bejing capital airport
 Trying to get to Vietnam  or India
@@ -76,6 +101,7 @@ Christ! You know it ain't easy. You know hard it can be.The way things are going
 
 Process finished with exit code 0
 
-
+# Run locally
+C:\Users\Admin\PycharmProjects\TheBeatlesMadLibsProject\venv\Scripts\python.exe "C:/Users/Admin/PycharmProjects/TheBeatlesMadLibsProject/The Ballad Of John & Yoko (MadLib).py"
 
 
